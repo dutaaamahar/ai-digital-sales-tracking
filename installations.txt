@@ -1,0 +1,20 @@
+# Clone the repository
+git clone https://github.com/yourusername/yourproject.git
+
+# Navigate to the repo directory
+cd ai-digital-sales-tracking
+
+# Create a virtual environment (optional but recommended)
+python -m venv .venv
+
+# Activate the virtual environmentV
+.venv\Scripts\activate
+
+# Install the project dependencies
+pip install -r requirements.txt
+
+# Navigate to the project directory
+cd api
+
+# Start the development server
+python manage.py runserver

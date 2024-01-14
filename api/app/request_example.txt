@@ -1,0 +1,10 @@
+Endpoint: {host}/app//
+Method: POST
+Input:
+{
+
+}
+Output:
+{
+
+}
