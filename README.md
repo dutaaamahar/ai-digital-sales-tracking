@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+During my internship at Kampus Merdeka Magang Merdeka Batch 5 with PT Menara Indonesia, I had the opportunity to develop an innovative project called "AI Digital Sales Tracking."
+
 The AI Digital Sales Tracking project is a comprehensive solution designed to enhance and streamline the sales tracking process by leveraging artificial intelligence (AI) technologies. With a focus on automating data analysis, improving decision-making, and providing insightful reports, this project aims to empower businesses in optimizing their sales strategies.
 
 ## Table of Contents
